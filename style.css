@@ -1,0 +1,47 @@
+body{
+    background-color: #D7E9F7;
+}
+
+.card{
+    background-color: white;
+    height: 550px;
+    width: 350px;
+    position: absolute;
+    right: 470px;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+.card2{
+    background-color: #1089FF;
+    position:absolute;
+    top: 20px;
+    left:23px;
+    width: 300px;
+    height: 350px;
+    border-radius: 20px ;
+}
+
+h1{
+    position: absolute;
+    padding-top: 375px;
+    left: 85px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    position: absolute;
+    padding-top: 450px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;;
+}
+
+#qr_pic{
+    position: absolute;
+    height: 200px;
+    width:200px;
+    top: 75px;
+    padding-left:50px;
+
+}
